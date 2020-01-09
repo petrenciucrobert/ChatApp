@@ -9,7 +9,10 @@
   "author": "Petrenciuc Robert && Murea Calin",
   "license": "ISC",
   "dependencies": {
+    "express": "*",
+    "mocha": "^7.0.0",
+    "should": "^13.2.3",
     "socket.io": "*",
-    "express": "*"
+    "supertest": "^4.0.2"
   }
 }
